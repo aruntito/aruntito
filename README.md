@@ -2,9 +2,9 @@
 
 Founder building internet products, automation systems, and growth infrastructure.
 
-Currently focused on DOOB, a modern growth infrastructure platform built around automation, orchestration, creator tools, and scalable digital systems.
+Currently focused on building products and systems across AI, SaaS, automation, digital growth, and internet infrastructure.
 
-I enjoy building products at the intersection of:
+I enjoy working at the intersection of:
 
 - SaaS
 - automation
@@ -12,22 +12,26 @@ I enjoy building products at the intersection of:
 - creator infrastructure
 - growth systems
 - internet distribution
+- operational systems
 
 ---
 
-## Projects
+## Ecosystem
+
+### TITORA
+Umbrella company behind multiple digital products, infrastructure systems, and growth-focused ventures.
 
 ### DOOB
 Growth infrastructure ecosystem for creators, brands, and resellers.
-
-### TITORA
-Digital systems company focused on automation, branding, growth, and scalable execution.
 
 ### SMXM
 Growth, marketing, automation, and digital scaling services.
 
 ### KARADAVI
 Research and experimentation around machine trust, perception systems, and internet visibility.
+
+### Family Business
+Part of a family-run local ice cream business.
 
 ---
 
@@ -47,12 +51,13 @@ TailwindCSS
 
 ## Current Work
 
-- building scalable backend systems
-- experimenting with AI-assisted workflows
+- scalable backend systems
+- AI-assisted workflows
 - infrastructure architecture
 - automation pipelines
 - growth operations
 - product systems
+- internet businesses
 
 ---
 
