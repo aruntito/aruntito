@@ -68,8 +68,8 @@ Machine trust and perception infrastructure research.
 ## Connect
 
 - GitHub: https://github.com/aruntito
-- LinkedIn: https://linkedin.com
-- Instagram: https://instagram.com
+- LinkedIn: https://www.linkedin.com/in/arundharavath
+- Instagram: https://instagram.com/arun.tito
 
 ---
 
