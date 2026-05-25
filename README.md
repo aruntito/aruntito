@@ -1,22 +1,30 @@
 # Arun Dharavath
 
-> Building internet growth infrastructure, AI systems, and autonomous digital platforms.
+Founder building internet products, automation systems, and growth infrastructure.
 
-Founder of TITORA.
-Currently building DOOB, a next-generation growth infrastructure ecosystem combining automation, orchestration, creator systems, and scalable digital execution.
+Currently focused on DOOB, a modern growth infrastructure platform built around automation, orchestration, creator tools, and scalable digital systems.
+
+I enjoy building products at the intersection of:
+
+- SaaS
+- automation
+- AI workflows
+- creator infrastructure
+- growth systems
+- internet distribution
 
 ---
 
-## Current Focus
+## Projects
 
-- DOOB.cloud
-- TITORA
-- KARADAVI
-- AI Infrastructure
-- Automation Systems
-- SaaS Architecture
-- Growth Operations
-- Digital Scaling
+### DOOB
+Growth infrastructure ecosystem for creators, brands, and resellers.
+
+### TITORA
+Digital systems company focused on automation, branding, growth, and scalable execution.
+
+### KARADAVI
+Research and experimentation around machine trust, perception systems, and internet visibility.
 
 ---
 
@@ -30,47 +38,27 @@ PostgreSQL
 Redis
 Docker
 TailwindCSS
-AI Workflows
-Distributed Infrastructure
 ```
 
 ---
 
-## Philosophy
+## Current Work
 
-I believe the future belongs to:
-
-- autonomous systems
-- machine trust
-- intelligent infrastructure
-- scalable distribution
-- perception-driven products
-- internet-native companies
-
-Technology is no longer just software.
-It is leverage.
-
----
-
-## Building
-
-### DOOB
-AI-powered growth infrastructure ecosystem.
-
-### TITORA
-Digital systems, automation, branding, and scalable internet growth.
-
-### KARADAVI
-Machine trust and perception infrastructure research.
+- building scalable backend systems
+- experimenting with AI-assisted workflows
+- infrastructure architecture
+- automation pipelines
+- growth operations
+- product systems
 
 ---
 
 ## Connect
 
-- GitHub: https://github.com/aruntito
 - LinkedIn: https://www.linkedin.com/in/arundharavath
 - Instagram: https://instagram.com/arun.tito
+- GitHub: https://github.com/aruntito
 
 ---
 
-> Designing systems for the next era of the internet.
+> Building quietly. Scaling intentionally.
