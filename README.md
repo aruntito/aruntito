@@ -1,109 +1,62 @@
+<div align="center">
+
 # Arun Dharavath
 
-```txt
-Building internet infrastructure, growth systems, and AI-powered digital products.
-```
+Building TITORA, an ecosystem spanning infrastructure, intelligence, automation, media systems, and scalable digital operations.
 
-Founder of TITORA.
-Focused on building scalable systems across automation, SaaS, creator infrastructure, AI workflows, and internet operations.
-
-My work sits between product, infrastructure, growth, and execution.
+</div>
 
 ---
 
-## TITORA Ecosystem
+## Ecosystem
 
 ### TITORA
-Umbrella ecosystem behind multiple internet products, operational systems, growth infrastructure platforms, and digital ventures.
+Umbrella ecosystem focused on infrastructure, operational systems, intelligence platforms, automation, and digital execution environments.
 
 ### DOOB
-Infrastructure-first growth platform for creators, brands, agencies, and reseller ecosystems.
-
-Focused on orchestration, automation, execution pipelines, intelligent routing, and scalable digital operations.
-
-### SMXM
-Growth and digital scaling systems covering:
-
-- automation
-- paid growth
-- creator infrastructure
-- web systems
-- funnels
-- branding
-- operational execution
+Distributed orchestration infrastructure exploring execution coordination, observability systems, replay-safe processing, and operational architecture.
 
 ### KARADAVI
-Research-focused initiative exploring:
+Research initiative focused on machine trust, semantic authority, intelligence systems, and perception infrastructure.
 
-- machine trust
-- AI discoverability
-- semantic authority
-- perception infrastructure
-- internet visibility systems
+### SMXM
+Growth operations, media systems, automation workflows, and scalable digital distribution.
 
 ### Family Business
-Part of a family-run local ice cream business.
-
-That experience shaped how I think about consistency, operations, customer trust, and long-term business building.
+Real-world operational foundations through local commerce, retail systems, and consumer-facing business operations.
 
 ---
 
-## Current Focus
+## Current Research
 
-```txt
-AI Infrastructure
-Automation Systems
-Growth Operations
-Distributed SaaS Architecture
-Digital Execution Systems
-Operational Intelligence
-Internet Distribution
-```
-
----
-
-## Stack
-
-```txt
-Laravel
-Next.js
-TypeScript
-PostgreSQL
-Redis
-Docker
-TailwindCSS
-Node.js
-Queue Systems
-AI Workflows
-```
+- distributed systems
+- orchestration infrastructure
+- operational intelligence
+- infrastructure observability
+- execution topology
+- replay-safe coordination
+- queue systems
+- scalable operational architecture
 
 ---
 
-## Philosophy
+## Selected Repositories
 
-I believe modern internet companies will increasingly be built around:
+### DOOB Public Architecture
+Distributed infrastructure architecture and orchestration systems research.
 
-- intelligent systems
-- automation layers
-- machine-assisted execution
-- operational leverage
-- scalable infrastructure
-- distribution advantages
+### DOOB Queue Systems
+Replay-safe execution pipelines and distributed processing coordination.
 
-Software alone is no longer enough.
-Systems win.
+### DOOB Provider Infrastructure
+Provider abstraction systems, routing coordination, and orchestration resilience research.
+
+### DOOB Observability
+Operational visibility, telemetry coordination, and execution diagnostics systems.
 
 ---
 
-## Connect
+## Links
 
+- DOOB → https://doob.cloud
 - LinkedIn → https://www.linkedin.com/in/arundharavath
-- Instagram → https://instagram.com/arun.tito
-- GitHub → https://github.com/aruntito
-
----
-
-```txt
-Building quietly.
-Scaling intentionally.
-```
