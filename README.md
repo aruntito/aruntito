@@ -1,37 +1,64 @@
 # Arun Dharavath
 
-Founder building internet products, automation systems, and growth infrastructure.
+```txt
+Building internet infrastructure, growth systems, and AI-powered digital products.
+```
 
-Currently focused on building products and systems across AI, SaaS, automation, digital growth, and internet infrastructure.
+Founder of TITORA.
+Focused on building scalable systems across automation, SaaS, creator infrastructure, AI workflows, and internet operations.
 
-I enjoy working at the intersection of:
-
-- SaaS
-- automation
-- AI workflows
-- creator infrastructure
-- growth systems
-- internet distribution
-- operational systems
+My work sits between product, infrastructure, growth, and execution.
 
 ---
 
-## Ecosystem
+## TITORA Ecosystem
 
 ### TITORA
-Umbrella company behind multiple digital products, infrastructure systems, and growth-focused ventures.
+Umbrella ecosystem behind multiple internet products, operational systems, growth infrastructure platforms, and digital ventures.
 
 ### DOOB
-Growth infrastructure ecosystem for creators, brands, and resellers.
+Infrastructure-first growth platform for creators, brands, agencies, and reseller ecosystems.
+
+Focused on orchestration, automation, execution pipelines, intelligent routing, and scalable digital operations.
 
 ### SMXM
-Growth, marketing, automation, and digital scaling services.
+Growth and digital scaling systems covering:
+
+- automation
+- paid growth
+- creator infrastructure
+- web systems
+- funnels
+- branding
+- operational execution
 
 ### KARADAVI
-Research and experimentation around machine trust, perception systems, and internet visibility.
+Research-focused initiative exploring:
+
+- machine trust
+- AI discoverability
+- semantic authority
+- perception infrastructure
+- internet visibility systems
 
 ### Family Business
 Part of a family-run local ice cream business.
+
+That experience shaped how I think about consistency, operations, customer trust, and long-term business building.
+
+---
+
+## Current Focus
+
+```txt
+AI Infrastructure
+Automation Systems
+Growth Operations
+Distributed SaaS Architecture
+Digital Execution Systems
+Operational Intelligence
+Internet Distribution
+```
 
 ---
 
@@ -45,28 +72,38 @@ PostgreSQL
 Redis
 Docker
 TailwindCSS
+Node.js
+Queue Systems
+AI Workflows
 ```
 
 ---
 
-## Current Work
+## Philosophy
 
-- scalable backend systems
-- AI-assisted workflows
-- infrastructure architecture
-- automation pipelines
-- growth operations
-- product systems
-- internet businesses
+I believe modern internet companies will increasingly be built around:
+
+- intelligent systems
+- automation layers
+- machine-assisted execution
+- operational leverage
+- scalable infrastructure
+- distribution advantages
+
+Software alone is no longer enough.
+Systems win.
 
 ---
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/arundharavath
-- Instagram: https://instagram.com/arun.tito
-- GitHub: https://github.com/aruntito
+- LinkedIn → https://www.linkedin.com/in/arundharavath
+- Instagram → https://instagram.com/arun.tito
+- GitHub → https://github.com/aruntito
 
 ---
 
-> Building quietly. Scaling intentionally.
+```txt
+Building quietly.
+Scaling intentionally.
+```
