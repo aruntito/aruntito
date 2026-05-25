@@ -23,6 +23,9 @@ Growth infrastructure ecosystem for creators, brands, and resellers.
 ### TITORA
 Digital systems company focused on automation, branding, growth, and scalable execution.
 
+### SMXM
+Growth, marketing, automation, and digital scaling services.
+
 ### KARADAVI
 Research and experimentation around machine trust, perception systems, and internet visibility.
 
