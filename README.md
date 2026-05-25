@@ -1,4 +1,4 @@
-# Arun Tito
+# Arun Dharavath
 
 > Building internet growth infrastructure, AI systems, and autonomous digital platforms.
 
