@@ -1,38 +1,73 @@
-<div align="left">
+<div align="center">
 
 # Arun Tito
 
-Building infrastructure, intelligence, automation, and scalable systems. 
-Focused on distributed execution, operational intelligence, and orchestrating robust digital environments.
+### Entrepreneur · Builder · Systems Thinker
+
+I build **AI-powered products, infrastructure, automation systems, and growth engines**.
+
+I’m focused on turning ideas into real systems — from product architecture and automation to distribution, infrastructure, and scalable execution.
+
+[![Website](https://img.shields.io/badge/DOOB-doob.cloud-black?style=flat-square)](https://doob.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arun%20Dharavath-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arundharavath)
+
+</div>
 
 ---
 
-### Current Work
+## What I'm Building
 
-- **TITORA**: Umbrella ecosystem for infrastructure, operational systems, and digital execution environments.
-- **DOOB**: Distributed orchestration infrastructure exploring replay-safe processing and execution coordination.
-- **KARADAVI**: Research initiative on machine trust, semantic authority, and perception infrastructure.
-- **SMXM**: Growth operations, media systems, automation workflows, and scalable distribution.
+### DOOB
+AI-powered infrastructure and orchestration systems for reliable digital execution, automation, and distributed workflows.
 
----
+### TITORA
+The broader ecosystem for infrastructure, software, automation, and digital execution.
 
-### Selected Projects
+### SMXM
+Growth systems combining media, automation, distribution, and operational execution.
 
-- **DOOB Public Architecture**: Architecture console and orchestration specification environment.
-- **DOOB Queue Systems**: Replay-safe execution pipelines and distributed processing coordination.
-- **DOOB Provider Infrastructure**: Provider abstraction systems and SLA-aware execution research.
-
----
-
-### Philosophy
-
-Build systems that scale. Automate the redundant. Prioritize resilience and observability in distributed topologies. 
+### KARADAVI
+Research and experimentation around machine trust, semantic authority, perception, and intelligent systems.
 
 ---
 
-### Contact
+## What I Work On
 
-- [doob.cloud](https://doob.cloud)
-- [LinkedIn](https://www.linkedin.com/in/arundharavath)
+- AI-powered software and digital products
+- Infrastructure & distributed systems
+- Automation & orchestration
+- Growth engineering & distribution
+- Developer tools and internal platforms
+- Operational intelligence
+- Product architecture and execution systems
+
+---
+
+## How I Think
+
+> **Build systems, not just features.**
+
+Automate what should not require humans. Design for failure. Make systems observable. Keep the architecture simple enough to evolve and strong enough to scale.
+
+---
+
+## Selected Work
+
+- **DOOB Public Architecture** — architecture and orchestration interfaces
+- **DOOB Queue Systems** — replay-safe execution and distributed processing
+- **DOOB Provider Infrastructure** — provider abstraction and execution coordination
+- **AI-powered digital products** — practical tools built around automation and intelligence
+
+---
+
+## Currently
+
+Building, shipping, testing, breaking, rebuilding — and turning ambitious ideas into working products.
+
+---
+
+<div align="center">
+
+**Build → Ship → Learn → Scale**
 
 </div>
