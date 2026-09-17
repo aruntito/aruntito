@@ -2,9 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24&text=ARUN%20TITO&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Founder%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Product%20Builder&descAlignY=62&descSize=17&animation=twinkling" width="100%" alt="Arun Tito"/>
 
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=I+build+systems%2C+not+just+features.;Software+Engineering+%7C+AI+Engineering+%7C+Product+Engineering;DOOB+%7C+KARADAVI+%7C+TITORA+%7C+SMXM;Architecture+%E2%86%92+Code+%E2%86%92+Infrastructure+%E2%86%92+Production" alt="Typing animation"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-7C3AED?style=flat-square&logo=github&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/AI%20ENGINEERING-4F46E5?style=flat-square&logo=openai&logoColor=white" height="28"/>
@@ -20,16 +22,6 @@
 <a href="https://github.com/aruntito"><img src="https://img.shields.io/badge/GITHUB-312E81?style=flat-square&logo=github&logoColor=white" height="30"/></a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=aruntito&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/aruntito?label=FOLLOWERS&style=flat-square&color=6366F1"/>
-<img src="https://img.shields.io/github/stars/aruntito?affiliations=OWNER&label=STARS&style=flat-square&color=8B5CF6"/>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 `SOFTWARE` &nbsp;•&nbsp; `AI` &nbsp;•&nbsp; `SYSTEMS` &nbsp;•&nbsp; `PRODUCTS` &nbsp;•&nbsp; `INFRASTRUCTURE`
 
@@ -321,120 +313,50 @@ Building software products and digital systems across AI, growth technology, kno
 ## Architecture & Systems Thinking
 
 ```text
-                    PRODUCT IDEA
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │ Domain & Data Model │
-              └──────────┬──────────┘
-                         │
-             ┌───────────┴───────────┐
-             ▼                       ▼
-       APPLICATIONS               SERVICES
-       React / Next.js        Laravel / APIs
-             │                       │
-             └───────────┬───────────┘
-                         ▼
-              ┌─────────────────────┐
-              │ PostgreSQL · Redis  │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │ Queues / Execution  │
-              └──────────┬──────────┘
-                         │
-             ┌───────────┴───────────┐
-             ▼                       ▼
-          AI LAYER              INFRASTRUCTURE
-     LLMs / Agents / RAG       Docker / Cloud / CI
-             │                       │
-             └───────────┬───────────┘
-                         ▼
-                     PRODUCTION
+                         PRODUCT IDEA
+                              │
+                              ▼
+                   ┌─────────────────────┐
+                   │ Domain & Data Model │
+                   └──────────┬──────────┘
+                              │
+                 ┌────────────┴────────────┐
+                 ▼                         ▼
+          APPLICATIONS                  SERVICES
+        React / Next.js          APIs / Jobs / Workers
+                 │                         │
+                 └────────────┬────────────┘
+                              ▼
+                    DATA & EXECUTION LAYER
+                 PostgreSQL · Redis · Queues
+                              │
+                              ▼
+                     AI / INTEGRATION LAYER
+                  LLMs · Providers · Agents
+                              │
+                              ▼
+                       INFRASTRUCTURE
+                  Docker · Cloud · CI/CD
+                              │
+                              ▼
+                          PRODUCTION
 ```
 
-The goal is not to use every technology. The goal is to understand **where each layer belongs, what responsibility it owns, and how the whole system behaves when something changes or fails.**
+I enjoy working across the layers rather than treating frontend, backend, AI, and infrastructure as isolated disciplines.
 
 ---
 
-## Achievements & Work Highlights
+## Engineering Principles
 
-<div align="center">
-
-| Area | Work |
+| Principle | Meaning |
 |---|---|
-| **Independent Product Building** | Designing and shipping products from zero-to-one |
-| **Full-Stack Engineering** | Frontend, backend, databases, auth, queues, infrastructure |
-| **AI Product Engineering** | Applying hosted and local models to real workflows |
-| **Systems Engineering** | Execution engines, observability, Android, kernel exploration |
-| **Knowledge Engineering** | Structured entities, relations, editorial pipelines, explanation systems |
-| **Open Source** | Maintaining a growing collection of public repositories |
-
-</div>
-
----
-
-## Certifications & Learning Ecosystems
-
-<p align="center">
-<img src="https://img.shields.io/badge/AWS-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-4F46E5?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL-6366F1?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-8B5CF6?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
-
-> Provider badges are shown as learning/certification ecosystems. Specific credential names are intentionally not listed here unless they are publicly verified.
-
----
-
-## Coding Profiles
-
-<p align="center">
-<img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/GeeksforGeeks-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white"/>
-</p>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=aruntito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" alt="GitHub stats"/>
-<img height="170" src="https://streak-stats.demolab.com?user=aruntito&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=A78BFA" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aruntito&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" alt="Top languages"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aruntito&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" width="100%"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aruntito&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true" alt="Contribution activity graph" width="100%"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/aruntito/aruntito/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
-
-</div>
+| **Systems over features** | Understand the system around a feature before adding complexity |
+| **Clear boundaries** | Keep domains, responsibilities, data ownership, and interfaces explicit |
+| **Automation first** | Remove repetitive manual work where reliable automation is possible |
+| **Human control** | Keep meaningful approval and operational boundaries where automation should not decide alone |
+| **Production awareness** | Design for failures, queues, retries, observability, and operational reality |
+| **Build for change** | Prefer architecture that can evolve without constant rewrites |
+| **Learn by shipping** | Use real behavior, debugging, and iteration as part of the engineering process |
 
 ---
 
@@ -457,9 +379,8 @@ building:
   - knowledge and explanation systems
 
 exploring:
-  - Ollama and local AI
+  - Ollama
   - Qwen and coding models
-  - agentic development workflows
   - knowledge graphs
   - semantic systems
   - intelligent search
@@ -472,16 +393,8 @@ open_to:
   - product engineering
   - open-source collaboration
   - technical partnerships
-  - serious zero-to-one product work
+  - zero-to-one product work
 ```
-
----
-
-## Beyond the Code
-
-I’m interested in the intersection of **software, AI, business, infrastructure, and human-facing products**.
-
-I like building things where the engineering is not isolated from the product: the architecture should support the idea, the infrastructure should support the architecture, and the interface should make the underlying system useful to people.
 
 ---
 
@@ -496,7 +409,7 @@ I like building things where the engineering is not isolated from the product: t
 
 <br/><br/>
 
-**Building in public where possible. Learning constantly. Shipping continuously.**
+**Building software, AI systems, and products from idea → architecture → production.**
 
 </div>
 
@@ -504,7 +417,9 @@ I like building things where the engineering is not isolated from the product: t
 
 <div align="center">
 
-### `Build systems, not just features.`
+> **Build systems, not just features.**
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24" width="100%" alt="Footer"/>
 
