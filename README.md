@@ -1,140 +1,171 @@
-# Arun Tito
+<div align="center">
 
-**Entrepreneur · Software Engineer · Product Builder · AI Builder**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,12,20,24&text=ARUN%20TITO&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Founder%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Product%20Builder&descAlignY=62&descSize=17&animation=twinkling" width="100%"/>
 
-I build **AI-powered products, software infrastructure, automation systems, growth systems, and digital products**.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=I+build+systems%2C+not+just+features.;Software+Engineering+%7C+AI+Engineering+%7C+Product+Engineering;DOOB+%7C+KARADAVI+%7C+TITORA+%7C+SMXM;Architecture+%E2%86%92+Code+%E2%86%92+Infrastructure+%E2%86%92+Production" alt="Arun Tito typing animation"/>
 
-I work across the full product lifecycle: **idea → architecture → implementation → infrastructure → deployment → iteration**.
+<br/><br/>
 
-[GitHub](https://github.com/aruntito) · [LinkedIn](https://www.linkedin.com/in/arundharavath) · [Portfolio](https://trydoob.in) · [Email](mailto:thearuntito@gmail.com)
+<img src="https://img.shields.io/badge/Software%20Engineering-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-4F46E5?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full--Stack-6366F1?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Product%20Engineering-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hyderabad%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://trydoob.in"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arundharavath"><img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:thearuntito@gmail.com"><img src="https://img.shields.io/badge/EMAIL-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/aruntito"><img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aruntito&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/aruntito?label=FOLLOWERS&style=flat-square&color=6366F1"/>
+<img src="https://img.shields.io/github/stars/aruntito?affiliations=OWNER&label=STARS&style=flat-square&color=8B5CF6"/>
+
+</div>
 
 ---
 
-## About Me
+## About
 
-I'm **Arun Tito**, an independent entrepreneur and software/product builder based in Hyderabad, India.
+I’m **Arun Tito**, an entrepreneur, software engineer, and product builder from Hyderabad, India.
 
-My work sits at the intersection of **software engineering, AI, infrastructure, automation, product development, and growth**. I like building complete systems rather than isolated features, so my work often crosses frontend, backend, databases, authentication, queues, AI workflows, infrastructure, observability, and deployment.
+I build **AI-powered products, software infrastructure, automation systems, growth systems, and digital products**. My work moves across the whole stack: product thinking, domain design, backend engineering, frontend systems, databases, queues, authentication, AI workflows, infrastructure, deployment, and iteration.
 
-I'm particularly interested in turning ambitious ideas into working products and then improving the underlying systems until they are reliable, understandable, and scalable.
+I’m most interested in the difficult middle ground between **an idea and a real working system**. I like understanding what happens underneath the UI, where data moves, how jobs execute, what fails, how systems recover, and how the product can keep evolving without becoming impossible to maintain.
 
 > **Build systems, not just features.**
 
----
-
-## What I Build
+### What I Actually Work On
 
 - AI-powered software and digital products
-- Full-stack web applications
-- SaaS and product infrastructure
-- Automation and orchestration systems
-- Backend APIs and distributed workflows
-- Knowledge and explanation systems
-- Growth and distribution systems
-- Developer tools and internal platforms
-- Android applications and system-level experiments
-- Zero-to-one products from concept to production
+- Full-stack applications and SaaS architecture
+- Backend APIs, domains, queues, caching, and execution engines
+- PostgreSQL, Redis, Supabase, and data architecture
+- Automation and orchestration
+- AI / LLM integration and local AI workflows
+- Knowledge systems and explanation-first products
+- Growth engineering and digital distribution
+- Cloud infrastructure, Docker, deployment, and DevOps
+- Android applications and low-level systems experimentation
+
+### Open To
+
+- Software engineering
+- AI / ML engineering
+- Full-stack engineering
+- Product engineering
+- AI SaaS and automation
+- Infrastructure and developer tooling
+- Open-source collaboration
+- Technical partnerships
+- Serious zero-to-one product work
 
 ---
 
-## Core Engineering Areas
-
-| Area | What I work with |
-|---|---|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Vite |
-| **Backend** | Laravel, PHP, Node.js, Python, REST APIs |
-| **Data** | PostgreSQL, Supabase, Redis |
-| **Infrastructure** | Docker, AWS, Linux, deployment and environment management |
-| **Queues & Jobs** | Redis queues, Laravel Horizon, asynchronous execution |
-| **AI** | LLM integration, local models, AI workflows, agentic systems, AI-assisted development |
-| **Knowledge Systems** | Structured entities, semantic relationships, content pipelines, knowledge graphs |
-| **Mobile** | Android, Kotlin, Jetpack Compose, Material 3 |
-| **Development** | Git, GitHub, CLI tooling, local AI development environments |
-
----
-
-## Languages & Technologies
+## Tech Stack
 
 ### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,python,typescript,javascript,html,css,bash,kotlin,cpp&theme=dark" alt="Languages" />
+</p>
 
 `PHP` `Python` `TypeScript` `JavaScript` `SQL` `HTML` `CSS` `Bash` `Kotlin` `C/C++`
 
 ### Frontend
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend stack" />
+</p>
+
 `React` `Next.js` `Tailwind CSS` `Vite`
 
-### Backend
+### Backend & Databases
 
-`Laravel` `PHP` `Node.js` `Python` `REST APIs`
+<p align="left">
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,postgresql,redis,supabase,docker&theme=dark" alt="Backend and databases" />
+</p>
 
-### Databases & Storage
+`Laravel` `Node.js` `Python` `PostgreSQL` `Redis` `Supabase` `REST APIs`
 
-`PostgreSQL` `Supabase` `Redis`
+### Cloud, DevOps & Tooling
 
-### Cloud & Infrastructure
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,vercel&theme=dark" alt="Cloud and DevOps" />
+</p>
 
-`AWS` `Docker` `Linux` `GitHub` `GitHub Actions` `Vercel`
+`AWS` `Docker` `Linux` `Git` `GitHub` `GitHub Actions` `Vercel` `Railway`
 
 ### AI & Developer Tooling
 
-`Ollama` `Qwen` `OpenRouter` `Gemini CLI` `Antigravity` `OpenCode`
+`Ollama` `Qwen` `OpenRouter` `Gemini CLI` `Antigravity` `OpenCode` `AI-assisted Development`
 
 ---
 
-# Main Projects
+## AI / ML Expertise
 
-## DOOB
+| Domain | Proficiency | Details |
+|---|---|---|
+| **AI Product Engineering** | Advanced | Designing practical AI-powered product workflows and intelligent application features |
+| **LLM Integration** | Advanced | Connecting hosted and local language models to real application workflows |
+| **AI Agents** | Advanced | Exploring tool-driven agents, orchestration, execution workflows, and automation |
+| **Local AI** | Advanced | Ollama-based local inference and model-assisted development |
+| **AI-assisted Development** | Advanced | Using coding models for architecture, implementation, debugging, research, and iteration |
+| **Knowledge Systems** | Advanced | Structured entities, semantic relationships, editorial systems, and knowledge architecture |
+| **AI Content Pipelines** | Advanced | Extraction, structured data, drafting, validation, and human editorial approval |
+| **Automation** | Advanced | Queues, background jobs, integrations, asynchronous execution, and orchestration |
+| **ML Foundations** | Working Knowledge | Practical understanding of model capabilities, inference, evaluation, and AI system design |
 
-**Growth Intelligence & Execution Platform**
+---
 
-DOOB is being built as a **growth intelligence platform**, rather than a traditional SMM panel. The architecture connects goals, signals, intelligence, execution, providers, and automation into one system.
+## Featured Projects
 
-### Engineering
+<details>
+<summary><strong>DOOB — Growth Intelligence & Execution Platform</strong></summary>
+
+### DOOB
+
+DOOB is being built as a **growth intelligence platform**, not a traditional SMM panel. The architecture connects goals, signals, intelligence, execution, providers, and automation into one product system.
+
+| Dimension | Details |
+|---|---|
+| **Stack** | Laravel, PHP 8.x, Next.js, React, TypeScript, PostgreSQL, Redis, Docker |
+| **Scale** | Multi-surface architecture covering product, API, administration, and execution systems |
+| **Performance** | Redis caching, asynchronous queues, Horizon, provider abstraction, background execution |
+| **Security** | Clerk JWT integration, application boundaries, role-aware architecture, transactional workflows |
+| **Impact** | Growth intelligence, digital execution, automation, and infrastructure orchestration |
+| **Repository** | [doob-v2](https://github.com/aruntito/doob-v2) — private |
+
+### Engineering Scope
 
 - Goal Intelligence Engine
 - Signal Pipeline
-- Platform connection architecture
+- Platform Connections
 - Execution Engine
 - Provider Resolver and Provider Manager
 - Process execution jobs
 - Wallet persistence and transactional workflows
 - Redis queues and Laravel Horizon
 - PostgreSQL schema and migration management
-- Clerk JWT authentication integration
+- Clerk JWT API integration
 - Next.js application surfaces
-- Laravel backend architecture
-- Domain-driven system design
-- Production infrastructure and deployment
+- Domain-driven backend architecture
+- Production deployment and infrastructure
 
-### Stack
+</details>
 
-`Laravel` `PHP` `Next.js` `React` `TypeScript` `PostgreSQL` `Redis` `Docker`
+<details>
+<summary><strong>KARADAVI — Deep Knowledge Forest</strong></summary>
 
-**Repository:** [aruntito/doob-v2](https://github.com/aruntito/doob-v2) · Private
+### KARADAVI
 
-### Public Architecture Work
+KARADAVI is an explanation-first knowledge platform built around a **Deep Knowledge Forest**: structured entities, connected concepts, editorial articles, and relationships designed to help people actually understand what they search for.
 
-- [doob-public-architecture](https://github.com/aruntito/doob-public-architecture)
-- [doob-architecture-console](https://github.com/aruntito/doob-architecture-console)
-- [doob-provider-infrastructure](https://github.com/aruntito/doob-provider-infrastructure)
-- [doob-queue-systems](https://github.com/aruntito/doob-queue-systems)
-- [doob-observability](https://github.com/aruntito/doob-observability)
-- [doob-operational-research](https://github.com/aruntito/doob-operational-research)
-- [doob-topology-lab](https://github.com/aruntito/doob-topology-lab)
-- [doob-infrastructure-diagrams](https://github.com/aruntito/doob-infrastructure-diagrams)
-- [doob-launch-engine](https://github.com/aruntito/doob-launch-engine)
-
----
-
-## KARADAVI
-
-**Deep Knowledge Forest · Explanation & Knowledge Platform**
-
-KARADAVI is being built around the idea of a **Deep Knowledge Forest**: structured entities, connected concepts, editorial articles, and relationships that help people understand what they search for.
-
-The product direction is explanation-first: instead of simply pointing people to external pages, KARADAVI is designed to build its own structured knowledge and explain concepts through connected context.
-
-### Editorial Principle
+### Editorial Rule
 
 > **AI may assist the process. AI does not publish.**
 
@@ -144,7 +175,16 @@ AI can help with extraction, structuring, research, and drafting. Human editoria
 
 `Companies` `People` `Technology` `Science` `Space` `Concepts` `History` `Places` `Nature & Earth` `Society & Culture`
 
-### Engineering
+| Dimension | Details |
+|---|---|
+| **Stack** | Next.js, React, TypeScript, Supabase, PostgreSQL, Python, Ollama, Qwen |
+| **Scale** | Multi-domain knowledge architecture spanning 10 knowledge categories |
+| **Performance** | Structured retrieval, canonical entity models, optimized content rendering, PWA architecture |
+| **Security** | Supabase RLS, controlled administration, role-aware editorial workflows |
+| **Impact** | Original knowledge infrastructure focused on explanation, context, and connected understanding |
+| **Repository** | [enterkaradavi](https://github.com/aruntito/enterkaradavi) — public entry; [karadavi](https://github.com/aruntito/karadavi) — private core |
+
+### Engineering Scope
 
 - Canonical Knowledge Entity Definition
 - Entity type normalization and aliases
@@ -164,57 +204,63 @@ AI can help with extraction, structuring, research, and drafting. Human editoria
 - Knowledge graph foundations
 - Search-oriented explanation architecture
 
-### Stack
+</details>
 
-`Next.js` `React` `TypeScript` `Supabase` `PostgreSQL` `Python` `Ollama` `Qwen`
+<details>
+<summary><strong>DOOB Architecture & Infrastructure Labs</strong></summary>
 
-**Public entry project:** [enterkaradavi](https://github.com/aruntito/enterkaradavi)
+Public engineering work documenting pieces of the DOOB architecture and infrastructure research.
 
-**Core repository:** [karadavi](https://github.com/aruntito/karadavi) · Private
+| Project | Purpose |
+|---|---|
+| [doob-public-architecture](https://github.com/aruntito/doob-public-architecture) | Distributed architecture and orchestration systems |
+| [doob-architecture-console](https://github.com/aruntito/doob-architecture-console) | Architecture visualization and console work |
+| [doob-provider-infrastructure](https://github.com/aruntito/doob-provider-infrastructure) | Provider abstraction and infrastructure |
+| [doob-queue-systems](https://github.com/aruntito/doob-queue-systems) | Queue architecture and distributed execution |
+| [doob-observability](https://github.com/aruntito/doob-observability) | Observability and operational systems |
+| [doob-operational-research](https://github.com/aruntito/doob-operational-research) | Operational and product research |
+| [doob-topology-lab](https://github.com/aruntito/doob-topology-lab) | System topology exploration |
+| [doob-infrastructure-diagrams](https://github.com/aruntito/doob-infrastructure-diagrams) | Infrastructure visualization and topology |
+| [doob-launch-engine](https://github.com/aruntito/doob-launch-engine) | Launch and execution workflows |
 
----
+</details>
 
-## TITORA
-
-**Infrastructure, Software & Digital Execution Ecosystem**
-
-TITORA is the broader ecosystem around software, infrastructure, automation, digital execution, and product development.
-
-**Repository:** [titora](https://github.com/aruntito/titora)
-
----
-
-## SMXM
-
-**Social Media X Marketing**
-
-SMXM focuses on social media, digital marketing, growth systems, distribution, automation, and digital operations.
-
-**Repository:** [smxm](https://github.com/aruntito/smxm)
-
----
-
-# Other Engineering Work
-
-## nCleaner
+<details>
+<summary><strong>nCleaner — Android System Utility</strong></summary>
 
 An Android utility built with **Kotlin, Jetpack Compose, and Material 3**, focused on storage analysis and device cleanup workflows.
 
-**Repository:** [nCleaner](https://github.com/aruntito/nCleaner)
+| Dimension | Details |
+|---|---|
+| **Stack** | Kotlin, Jetpack Compose, Material 3, Android |
+| **Scale** | Native Android application |
+| **Performance** | Device-side storage analysis and native processing |
+| **Security** | Cleanup workflows designed around controlled deletion |
+| **Impact** | Android application and system-level engineering |
+| **Repository** | [nCleaner](https://github.com/aruntito/nCleaner) |
 
----
+</details>
 
-## Origin-Kernel
+<details>
+<summary><strong>Origin-Kernel — Android / Linux Systems</strong></summary>
 
-An Android/Linux kernel project representing hands-on exploration of low-level mobile software and kernel development.
+A kernel project representing hands-on exploration of low-level mobile software, Linux kernel work, and Android systems.
 
-**Repository:** [Origin-Kernel](https://github.com/aruntito/Origin-Kernel)
+| Dimension | Details |
+|---|---|
+| **Stack** | Linux Kernel, Android, C/C++, kernel build tooling |
+| **Scale** | Large kernel source tree |
+| **Performance** | Kernel-level device and performance experimentation |
+| **Security** | Low-level Android and kernel security considerations |
+| **Impact** | Systems engineering beyond application-level development |
+| **Repository** | [Origin-Kernel](https://github.com/aruntito/Origin-Kernel) |
 
----
+</details>
 
-## Portfolio & Product Experiments
+<details>
+<summary><strong>Open Source Experiments</strong></summary>
 
-I maintain a collection of smaller repositories for experiments, product ideas, interfaces, systems, and technical exploration.
+A collection of smaller public repositories used to explore interfaces, software ideas, systems, and product concepts.
 
 | Project | Repository |
 |---|---|
@@ -232,39 +278,142 @@ I maintain a collection of smaller repositories for experiments, product ideas, 
 | Cinematic Portfolio | [cinematic-portfolio](https://github.com/aruntito/cinematic-portfolio) |
 | Portfolio | [portfolio](https://github.com/aruntito/portfolio) |
 | Links | [links](https://github.com/aruntito/links) |
-| Brand Assets | [brand-assets](https://github.com/aruntito/brand-assets) · Private |
+| SMXM | [smxm](https://github.com/aruntito/smxm) |
+| TITORA | [titora](https://github.com/aruntito/titora) |
+
+</details>
 
 ---
 
-# How I Work
+## Experience
 
-### 01 · Understand
+### Founder & Product Engineer — Independent Product Development
 
-Start with the actual problem, users, constraints, and desired outcome.
+**2024 — Present**
 
-### 02 · Model
+Building software products and digital systems across AI, growth technology, knowledge infrastructure, automation, and full-stack engineering.
 
-Define the domain, architecture, data flow, interfaces, and failure cases before blindly adding features.
+**Scope of Work**
 
-### 03 · Build
+- Architect products from concept through implementation and deployment
+- Design domains, APIs, databases, queues, caching, authentication, and infrastructure
+- Build React / Next.js interfaces and reusable product systems
+- Develop Laravel and PostgreSQL backend architectures
+- Integrate AI models into practical application workflows
+- Build local AI development environments with Ollama and coding models
+- Design asynchronous execution and automation systems
+- Create PRDs, architecture documents, technical roadmaps, and implementation plans
+- Manage Git repositories, deployment workflows, and production environments
+- Research emerging AI, infrastructure, and developer technologies
+- Iterate based on real product behavior instead of assumptions
 
-Implement across frontend, backend, data, infrastructure, and integrations as required.
+**Skills**
 
-### 04 · Verify
-
-Test the real system, inspect logs, fix integration issues, and validate behavior instead of assuming the architecture works because the code compiles.
-
-### 05 · Ship
-
-Deploy, observe, collect feedback, and improve.
-
-> **Build → Ship → Learn → Iterate**
+`Software Engineering` `AI Engineering` `Full-Stack` `Laravel` `Next.js` `React` `TypeScript` `PHP` `Python` `PostgreSQL` `Redis` `Docker` `AWS` `Supabase` `GitHub` `Product Engineering`
 
 ---
 
-# Current Focus
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| **Independent Product Builder** | Building products across AI, growth infrastructure, knowledge systems, automation, and digital execution |
+| **Full-Stack Engineering** | Working across frontend, backend, databases, authentication, queues, infrastructure, and deployment |
+| **AI Product Engineering** | Applying hosted and local AI models to practical application and content workflows |
+| **Systems Engineering** | Exploring architecture from high-level product systems down to queues, observability, Android, and kernel work |
+| **Open Source Development** | Maintaining a growing collection of public repositories across software and systems experimentation |
+| **Zero-to-One Development** | Taking ideas from concept and architecture through implementation, deployment, and iteration |
+
+</div>
+
+---
+
+## Certifications
+
+> Provider badges below represent technology ecosystems and learning/certification providers associated with my technical interests. Specific credential names are not listed here unless publicly verified.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-312E81?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-4F46E5?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-6366F1?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</div>
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
+<img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+<img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=aruntito&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true" height="180" alt="GitHub statistics"/>
+
+<img src="https://streak-stats.demolab.com?user=aruntito&theme=dark&hide_border=true&background=0D1117&stroke=312E81&ring=8B5CF6&fire=6366F1&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180" alt="GitHub streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aruntito&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=10" height="180" alt="Top languages"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aruntito&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aruntito&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=ARUN%20TITO%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aruntito/aruntito/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## Current Focus
 
 ```yaml
+Learning:
+  - Advanced AI engineering
+  - LLM systems and agentic workflows
+  - Distributed application architecture
+  - Cloud infrastructure and DevOps
+  - Deeper systems engineering
+
 Building:
   - DOOB
   - KARADAVI
@@ -273,107 +422,44 @@ Building:
   - Automation and execution infrastructure
   - Knowledge and explanation systems
 
-Working_With:
-  - Laravel
-  - Next.js
-  - React
-  - TypeScript
-  - PHP
-  - Python
-  - PostgreSQL
-  - Redis
-  - Supabase
-  - Docker
-  - AWS
-  - Ollama
-  - Qwen
-
 Exploring:
-  - AI engineering
-  - LLM systems
+  - Local AI with Ollama
+  - Qwen and coding models
   - Agentic workflows
-  - Local AI
   - Knowledge graphs
   - Semantic systems
   - Intelligent search
-  - Distributed application architecture
   - Developer infrastructure
   - Android and low-level systems
 
-Interested_In:
-  - Zero-to-one product engineering
-  - AI products
-  - Automation
-  - Infrastructure
-  - Developer tools
+Open_To:
+  - Software engineering
+  - AI / ML engineering
+  - Product engineering
   - Open-source collaboration
   - Technical partnerships
+  - Zero-to-one product work
 ```
 
 ---
 
-# Product & Business Ecosystem
+## Connect
 
-| Venture | Focus |
-|---|---|
-| **DOOB** | Growth intelligence, automation, execution, and digital infrastructure |
-| **KARADAVI** | Knowledge, explanation, semantic systems, and editorial infrastructure |
-| **TITORA** | Software, infrastructure, automation, and digital execution |
-| **SMXM** | Social media, growth systems, distribution, and digital marketing |
+<div align="center">
 
----
+<a href="mailto:thearuntito@gmail.com"><img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arundharavath"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/aruntito"><img src="https://img.shields.io/badge/GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://trydoob.in"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-# What I Bring
-
-- Product thinking alongside engineering
-- Full-stack implementation across the product surface
-- Backend and infrastructure ownership
-- AI integration into practical workflows
-- System architecture and domain modeling
-- Automation and asynchronous execution
-- Technical documentation and architecture planning
-- Fast zero-to-one prototyping and iteration
-- Willingness to work close to the infrastructure when the product requires it
-
----
-
-# Open To
-
-- Software engineering opportunities
-- AI / ML engineering
-- Full-stack engineering
-- Product engineering
-- AI SaaS and automation products
-- Infrastructure and developer tooling
-- Open-source collaboration
-- Technical partnerships
-- Ambitious zero-to-one product work
-
----
-
-# Connect
-
-**Arun Tito**
-
-Hyderabad, India
-
-- GitHub: [github.com/aruntito](https://github.com/aruntito)
-- LinkedIn: [linkedin.com/in/arundharavath](https://www.linkedin.com/in/arundharavath)
-- Portfolio: [trydoob.in](https://trydoob.in)
-- Email: [thearuntito@gmail.com](mailto:thearuntito@gmail.com)
-
----
-
-## Philosophy
-
-> **Build systems, not just features.**
->
-> Make it useful. Make it reliable. Understand the system underneath it. Then keep improving it.
+</div>
 
 ---
 
 <div align="center">
 
-**ARUN TITO · BUILDING FROM ZERO**
+> **Build systems, not just features.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=6,12,20,24&animation=twinkling" width="100%" alt="Footer"/>
 
 </div>
