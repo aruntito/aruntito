@@ -404,32 +404,49 @@ open_to:
 
 ### Find Me Online
 
-<a href="https://www.linkedin.com/in/arundharavath"><img src="https://img.shields.io/badge/LINKEDIN-Arun%20Dharavath-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" height="36"/></a>
-<a href="https://www.instagram.com/its.tito.official/"><img src="https://img.shields.io/badge/INSTAGRAM-@its.tito.official-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" height="36"/></a>
-<a href="https://github.com/aruntito"><img src="https://img.shields.io/badge/GITHUB-@aruntito-312E81?style=for-the-badge&logo=github&logoColor=white" height="36"/></a>
-
-<br/><br/>
-
-<a href="https://trydoob.in"><img src="https://img.shields.io/badge/PORTFOLIO-trydoob.in-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" height="36"/></a>
-<a href="mailto:thearuntito@gmail.com"><img src="https://img.shields.io/badge/EMAIL-thearuntito%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white" height="36"/></a>
-<a href="https://titora.co.in"><img src="https://img.shields.io/badge/TITORA-titora.co.in-5B21B6?style=for-the-badge&logo=globe&logoColor=white" height="36"/></a>
-
-<br/><br/>
-
 <table>
 <tr>
-<td align="center" width="170"><strong>01</strong><br/>LinkedIn<br/><sub>Professional</sub></td>
-<td align="center" width="170"><strong>02</strong><br/>Instagram<br/><sub>Personal / Social</sub></td>
-<td align="center" width="170"><strong>03</strong><br/>GitHub<br/><sub>Engineering</sub></td>
+<td align="center" width="210">
+<a href="https://www.linkedin.com/in/arundharavath"><img src="https://img.shields.io/badge/LINKEDIN-Arun%20Dharavath-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/>
+<sub><strong>Professional Network</strong></sub>
+</td>
+<td align="center" width="210">
+<a href="https://www.instagram.com/arun.tito/"><img src="https://img.shields.io/badge/INSTAGRAM-@arun.tito-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/></a><br/>
+<sub><strong>Social & Personal</strong></sub>
+</td>
+<td align="center" width="210">
+<a href="https://x.com/aruntito_"><img src="https://img.shields.io/badge/X-@aruntito_-312E81?style=for-the-badge&logo=x&logoColor=white"/></a><br/>
+<sub><strong>Updates & Thoughts</strong></sub>
+</td>
 </tr>
 <tr>
-<td align="center" width="170"><strong>04</strong><br/>Portfolio<br/><sub>Products & Work</sub></td>
-<td align="center" width="170"><strong>05</strong><br/>Email<br/><sub>Direct Contact</sub></td>
-<td align="center" width="170"><strong>06</strong><br/>TITORA<br/><sub>Company / Ecosystem</sub></td>
+<td align="center" width="210">
+<a href="https://github.com/aruntito"><img src="https://img.shields.io/badge/GITHUB-@aruntito-312E81?style=for-the-badge&logo=github&logoColor=white"/></a><br/>
+<sub><strong>Code & Engineering</strong></sub>
+</td>
+<td align="center" width="210">
+<a href="https://www.facebook.com/profile.php?id=100066697117554"><img src="https://img.shields.io/badge/FACEBOOK-Arun%20Tito-4F46E5?style=for-the-badge&logo=facebook&logoColor=white"/></a><br/>
+<sub><strong>Social Profile</strong></sub>
+</td>
+<td align="center" width="210">
+<a href="https://trydoob.in"><img src="https://img.shields.io/badge/PORTFOLIO-trydoob.in-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a><br/>
+<sub><strong>Products & Work</strong></sub>
+</td>
 </tr>
 </table>
 
 <br/>
+
+### Direct Contact
+
+<a href="mailto:thearuntito@gmail.com"><img src="https://img.shields.io/badge/EMAIL-thearuntito%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://titora.co.in"><img src="https://img.shields.io/badge/TITORA-titora.co.in-5B21B6?style=for-the-badge&logo=globe&logoColor=white"/></a>
+
+<br/><br/>
+
+**LINKEDIN · INSTAGRAM · X · GITHUB · FACEBOOK · PORTFOLIO · EMAIL · TITORA**
+
+<br/><br/>
 
 **BUILD · SHIP · LEARN · REPEAT**
 
