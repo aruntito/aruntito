@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24&text=ARUN%20TITO&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Founder%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Product%20Builder&descAlignY=62&descSize=17&animation=twinkling" width="100%" alt="Arun Tito"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24&text=ARUN%20TITO&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Founder%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Growth%20Systems%20Builder&descAlignY=62&descSize=17&animation=twinkling" width="100%" alt="Arun Tito"/>
 
 <br/>
 
@@ -31,9 +31,11 @@
 
 ## About
 
-I’m **Arun Tito**, an entrepreneur, software engineer, and product builder from Hyderabad, India.
+I’m **Arun Tito**, a founder, software engineer, growth builder, and product engineer from Hyderabad, India.
 
-I build **AI-powered products, software infrastructure, automation systems, growth systems, knowledge platforms, and digital products**. I work across the path from product idea to production system: architecture, domain design, APIs, databases, queues, authentication, AI workflows, interfaces, infrastructure, deployment, and iteration.
+My journey started with **digital marketing and social media marketing**, working with social growth, content, lead generation, SEO, digital PR, monetization, and growth systems. I later moved deeper into software engineering and now combine both sides: understanding how businesses grow and building the technology that makes those systems scalable.
+
+Today I build **AI-powered products, software infrastructure, automation systems, growth systems, knowledge platforms, and digital products**. I work across the path from product idea to production system: architecture, domain design, APIs, databases, queues, authentication, AI workflows, interfaces, infrastructure, deployment, and iteration.
 
 What interests me most is the part underneath the interface: **how data moves, how systems execute, how failures are handled, how components communicate, and how a product can keep evolving without collapsing under its own complexity.**
 
@@ -49,6 +51,8 @@ What interests me most is the part underneath the interface: **how data moves, h
 | **Systems Engineering** | Infrastructure, queues, execution engines, observability, Android, kernel work |
 | **Knowledge Systems** | Entities, relationships, editorial pipelines, semantic search, explanation systems |
 | **Growth Engineering** | Growth infrastructure, integrations, automation, digital execution |
+| **Digital Marketing** | Digital strategy, social media marketing, SEO, lead generation, digital PR |
+| **Social Media Growth** | Social platforms, content workflows, growth operations, monetization |
 
 ### Engineering DNA
 
@@ -56,7 +60,7 @@ What interests me most is the part underneath the interface: **how data moves, h
 
 ### Open To
 
-**Software Engineering** · **AI / ML Engineering** · **Product Engineering** · **AI SaaS** · **Infrastructure** · **Developer Tooling** · **Open Source** · **Technical Partnerships** · **Zero-to-One Products**
+**Digital Marketing** · **Social Media Marketing** · **Software Engineering** · **AI / ML Engineering** · **Product Engineering** · **Infrastructure** · **Developer Tooling** · **Open Source** · **Technical Partnerships** · **Zero-to-One Products**
 
 ---
 
@@ -296,7 +300,7 @@ A collection of public repositories used to explore interfaces, software ideas, 
 ### Founder & Product Engineer
 **Independent Product Development · 2024 — Present**
 
-Building software products and digital systems across AI, growth technology, knowledge infrastructure, automation, and full-stack engineering.
+Building software products and digital systems across **digital marketing, social media growth, AI, growth technology, knowledge infrastructure, automation, and full-stack engineering**.
 
 ### Product Engineering Scope
 
@@ -388,6 +392,9 @@ exploring:
   - Android and low-level systems
 
 open_to:
+  - digital marketing
+  - social media marketing
+  - growth engineering
   - software engineering
   - AI / ML engineering
   - product engineering
