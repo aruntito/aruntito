@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24&text=ARUN%20TITO&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Founder%20%C2%B7%20Software%20Engineer%20%C2%B7%20AI%20%C2%B7%20Growth%20Systems%20Builder&descAlignY=62&descSize=17&animation=twinkling" width="100%" alt="Arun Tito"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24&text=ARUN%20TITO&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Entrepreneur%20%C2%B7%20Founder%20%C2%B7%20Business%20%26%20Technology&descAlignY=62&descSize=17&animation=twinkling" width="100%" alt="Arun Tito"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=I+build+systems%2C+not+just+features.;Software+Engineering+%7C+AI+Engineering+%7C+Product+Engineering;DOOB+%7C+KARADAVI+%7C+TITORA+%7C+SMXM;Architecture+%E2%86%92+Code+%E2%86%92+Infrastructure+%E2%86%92+Production" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Entrepreneur+%7C+Founder+%7C+Business+Operator;Food+%26+Beverage+%7C+Consumer+Brands+%7C+Technology;GEETHA+ICE+CREAM+FACTORY+%7C+TITO%E2%80%99S+CREAMERY;TITORA+%7C+DOOB+%7C+KARADAVI+%7C+SMXM" alt="Typing animation"/>
 
 <br/><br/>
 
@@ -23,7 +23,7 @@
 
 <br/><br/>
 
-`SOFTWARE` &nbsp;•&nbsp; `AI` &nbsp;•&nbsp; `SYSTEMS` &nbsp;•&nbsp; `PRODUCTS` &nbsp;•&nbsp; `INFRASTRUCTURE`
+`ENTREPRENEURSHIP` &nbsp;•&nbsp; `FOOD & BEVERAGE` &nbsp;•&nbsp; `CONSUMER BRANDS` &nbsp;•&nbsp; `TECHNOLOGY` &nbsp;•&nbsp; `DIGITAL VENTURES`
 
 </div>
 
@@ -31,20 +31,33 @@
 
 ## About
 
-I’m **Arun Tito**, a founder, software engineer, growth builder, and product engineer from Hyderabad, India.
+I’m **Arun Tito**, an entrepreneur, founder and business operator based in Hyderabad, India. My business interests span **food & beverage, consumer brands, technology and digital services**.
 
-My journey started with **digital marketing and social media marketing**, working with social growth, content, lead generation, SEO, digital PR, monetization, and growth systems. I later moved deeper into software engineering and now combine both sides: understanding how businesses grow and building the technology that makes those systems scalable.
+My portfolio includes **Geetha Ice Cream Factory** and **Tito’s Creamery** in food & beverage, alongside **TITORA, DOOB, KARADAVI and SMXM** across technology, software, knowledge platforms and digital marketing.
 
-Today I build **AI-powered products, software infrastructure, automation systems, growth systems, knowledge platforms, and digital products**. I work across the path from product idea to production system: architecture, domain design, APIs, databases, queues, authentication, AI workflows, interfaces, infrastructure, deployment, and iteration.
+My work covers business development, brand strategy, product development and operations. I’m interested in building commercially viable businesses, developing strong brands, and creating systems that support reliable execution and sustainable growth.
 
-What interests me most is the part underneath the interface: **how data moves, how systems execute, how failures are handled, how components communicate, and how a product can keep evolving without collapsing under its own complexity.**
+Alongside operating and developing businesses, I work hands-on across software engineering, AI, product architecture, automation and infrastructure. I take products from problem definition and architecture through implementation, deployment and iteration.
 
-> **Build systems, not just features.**
+> **Build deliberately. Operate responsibly. Think long term.**
+
+### Businesses & Ventures
+
+| Venture | Focus |
+|---|---|
+| **Geetha Ice Cream Factory** | Ice cream manufacturing and production |
+| **Tito’s Creamery** | Ice cream and frozen dessert brand |
+| **TITORA** | Business and technology ventures |
+| **DOOB** | Growth intelligence platform for creators and businesses |
+| **KARADAVI** | Evidence-backed knowledge and research platform |
+| **SMXM** | Digital marketing agency offering social media, advertising, branding, SEO and growth services |
 
 ### What I Actually Work On
 
 | Area | Focus |
 |---|---|
+| **Business Operations** | Business development, brand strategy, product development, operations and commercial viability |
+| **Food & Beverage** | Ice cream manufacturing, consumer products and brand development |
 | **Software Engineering** | Full-stack applications, APIs, architecture, databases, async jobs |
 | **AI Engineering** | LLM integration, agents, local models, AI workflows, automation |
 | **Product Engineering** | Zero-to-one products, product systems, UX-aware architecture |
@@ -60,7 +73,7 @@ What interests me most is the part underneath the interface: **how data moves, h
 
 ### Open To
 
-**Digital Marketing** · **Social Media Marketing** · **Software Engineering** · **AI / ML Engineering** · **Product Engineering** · **Infrastructure** · **Developer Tooling** · **Open Source** · **Technical Partnerships** · **Zero-to-One Products**
+**Business Development** · **Brand & Product Development** · **Food & Beverage** · **Digital Marketing** · **Social Media Marketing** · **Software & AI Engineering** · **Product Engineering** · **Strategic Partnerships**
 
 ---
 
@@ -297,10 +310,14 @@ A collection of public repositories used to explore interfaces, software ideas, 
 
 ## Experience
 
-### Founder & Product Engineer
-**Independent Product Development · 2024 — Present**
+### Entrepreneur & Founder
+**Independent Businesses & Ventures · 2024 — Present**
 
-Building software products and digital systems across **digital marketing, social media growth, AI, growth technology, knowledge infrastructure, automation, and full-stack engineering**.
+Operating and developing businesses across **food & beverage, consumer brands, technology and digital services**. Work spans business development, brand strategy, product development, software and platform engineering, marketing, and business operations.
+
+### Product & Software Engineering
+
+Building digital products and systems across **AI, growth technology, knowledge infrastructure, automation and full-stack engineering**.
 
 ### Product Engineering Scope
 
@@ -375,9 +392,12 @@ learning:
   - systems engineering
 
 building:
+  - Geetha Ice Cream Factory
+  - Tito’s Creamery
+  - TITORA ventures
   - DOOB
   - KARADAVI
-  - TITORA ecosystem
+  - SMXM
   - AI digital products
   - automation and execution infrastructure
   - knowledge and explanation systems
@@ -392,6 +412,9 @@ exploring:
   - Android and low-level systems
 
 open_to:
+  - founder and operator networks
+  - business and strategic partnerships
+  - food and beverage opportunities
   - digital marketing
   - social media marketing
   - growth engineering
