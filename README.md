@@ -1,34 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,12,20,24&text=ARUN%20TITO&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Entrepreneur%20%C2%B7%20Founder%20%C2%B7%20Business%20%26%20Technology&descAlignY=62&descSize=17&animation=twinkling" width="100%" alt="Arun Tito"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Entrepreneur+%7C+Founder+%7C+Business+Operator;Food+%26+Beverage+%7C+Consumer+Brands+%7C+Technology;GEETHA+ICE+CREAM+FACTORY+%7C+TITO%E2%80%99S+CREAMERY;TITORA+%7C+DOOB+%7C+KARADAVI+%7C+SMXM" alt="Typing animation"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-7C3AED?style=flat-square&logo=github&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/AI%20ENGINEERING-4F46E5?style=flat-square&logo=openai&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/FULL--STACK-6366F1?style=flat-square&logo=nextdotjs&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/PRODUCT%20ENGINEERING-8B5CF6?style=flat-square&logo=rocket&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/HYDERABAD%2C%20INDIA-312E81?style=flat-square&logo=googlemaps&logoColor=white" height="28"/>
-
-<br/><br/>
-
-<a href="https://trydoob.in"><img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=flat-square&logo=vercel&logoColor=white" height="30"/></a>
-<a href="https://www.linkedin.com/in/arundharavath"><img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=flat-square&logo=linkedin&logoColor=white" height="30"/></a>
-<a href="mailto:thearuntito@gmail.com"><img src="https://img.shields.io/badge/EMAIL-6366F1?style=flat-square&logo=gmail&logoColor=white" height="30"/></a>
-<a href="https://github.com/aruntito"><img src="https://img.shields.io/badge/GITHUB-312E81?style=flat-square&logo=github&logoColor=white" height="30"/></a>
-
-<br/><br/>
-
-`ENTREPRENEURSHIP` &nbsp;•&nbsp; `FOOD & BEVERAGE` &nbsp;•&nbsp; `CONSUMER BRANDS` &nbsp;•&nbsp; `TECHNOLOGY` &nbsp;•&nbsp; `DIGITAL VENTURES`
-
-</div>
-
----
-
 ## About
 
 I’m **Arun Tito**, an entrepreneur, founder and business operator based in Hyderabad, India. My business interests span **food & beverage, consumer brands, technology and digital services**.
