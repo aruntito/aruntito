@@ -10,25 +10,25 @@ I’m an entrepreneur and product builder working across software, AI, and techn
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/compass.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/compass.svg?color=%23000000" width="18" height="18" alt=""></picture> What I do
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/compass.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/compass.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> What I do
 
 From the first question to the finished product, I bring product thinking, engineering, and execution together.
 
 I’m interested in making complex technology feel simple, creating experiences people enjoy using, and building systems that stand the test of time.
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/layers.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/layers.svg?color=%23000000" width="18" height="18" alt=""></picture> Selected work
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/layers.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/layers.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> Selected work
 
-<table><tbody><tr><td valign="middle" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/sparkles.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/sparkles.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/doob-v2">DOOB</a></h3></td></tr><tr><td colspan="2">Growth intelligence for creators.</td></tr></tbody></table>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/sparkles.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/sparkles.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> <strong><a href="https://github.com/aruntito/doob-v2"><big>DOOB</big></a></strong><br/>Growth intelligence for creators.</p>
 
-<table><tbody><tr><td valign="middle" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/book-open.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/book-open.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/karadavi">KARADAVI</a></h3></td></tr><tr><td colspan="2">A connected knowledge platform for exploring the world.</td></tr></tbody></table>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/book-open.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/book-open.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> <strong><a href="https://github.com/aruntito/karadavi"><big>KARADAVI</big></a></strong><br/>A connected knowledge platform for exploring the world.</p>
 
-<table><tbody><tr><td valign="middle" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/megaphone.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/megaphone.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/smxm">SMXM</a></h3></td></tr><tr><td colspan="2">Digital marketing and growth systems.</td></tr></tbody></table>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/megaphone.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/megaphone.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> <strong><a href="https://github.com/aruntito/smxm"><big>SMXM</big></a></strong><br/>Digital marketing and growth systems.</p>
 
-<table><tbody><tr><td valign="middle" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/share-2.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/share-2.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/smmly">SMMLY</a></h3></td></tr><tr><td colspan="2">A platform for social media marketing.</td></tr></tbody></table>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/share-2.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/share-2.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> <strong><a href="https://github.com/aruntito/smmly"><big>SMMLY</big></a></strong><br/>A platform for social media marketing.</p>
 
-<table><tbody><tr><td valign="middle" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/boxes.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/boxes.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/titora">TITORA</a></h3></td></tr><tr><td colspan="2">A home for business and technology ventures.</td></tr></tbody></table>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/boxes.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/boxes.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> <strong><a href="https://github.com/aruntito/titora"><big>TITORA</big></a></strong><br/>A home for business and technology ventures.</p>
 
-<table><tbody><tr><td valign="middle" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/ice-cream-cone.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/ice-cream-cone.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/creamery">Tito’s Creamery</a></h3></td></tr><tr><td colspan="2">A food and beverage venture.</td></tr></tbody></table>
+<p><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/ice-cream-cone.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/ice-cream-cone.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> <strong><a href="https://github.com/aruntito/creamery"><big>Tito’s Creamery</big></a></strong><br/>A food and beverage venture.</p>
 
 ---
 
