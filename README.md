@@ -7,10 +7,10 @@
 I design and build software, digital products, and systems that solve meaningful problems.
 
 <p>
-  <a href="https://www.linkedin.com/in/arundharavath" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri/linkedin-line.svg?color=%23FFFFFF" /><img src="https://api.iconify.design/ri/linkedin-line.svg?color=%231D1D1F" width="22" height="22" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arundharavath" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.icons8.com/ios-filled/50/FFFFFF/linkedin.png" /><img src="https://img.icons8.com/ios-filled/50/1D1D1F/linkedin.png" height="24" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/aruntito" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri/twitter-x-line.svg?color=%23FFFFFF" /><img src="https://api.iconify.design/ri/twitter-x-line.svg?color=%231D1D1F" width="22" height="22" alt="X" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/arun.tito/" title="Instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri/instagram-line.svg?color=%23FFFFFF" /><img src="https://api.iconify.design/ri/instagram-line.svg?color=%231D1D1F" width="22" height="22" alt="Instagram" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@aruntito" title="YouTube"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/ri/youtube-line.svg?color=%23FFFFFF" /><img src="https://api.iconify.design/ri/youtube-line.svg?color=%231D1D1F" width="22" height="22" alt="YouTube" /></picture></a>
+  <a href="https://www.instagram.com/arun.tito/" title="Instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/FFFFFF" /><img src="https://cdn.simpleicons.org/instagram/1D1D1F" height="24" alt="Instagram" /></picture></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@aruntito" title="YouTube"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/youtube/FFFFFF" /><img src="https://cdn.simpleicons.org/youtube/1D1D1F" height="24" alt="YouTube" /></picture></a>
 </p>
 
 </div>
