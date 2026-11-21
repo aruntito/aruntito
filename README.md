@@ -2,9 +2,9 @@
 
 # Arun Tito
 
-### Building useful things for the world.
+### Entrepreneurship, built through technology.
 
-I’m an entrepreneur and product builder working across software, AI, and technology. I turn ideas into thoughtful digital products—designed to solve real problems and built to make a lasting difference.
+Building independent ventures across software, AI, and digital business. Focused on turning ambitious ideas into well-crafted products and enduring businesses.
 
 </div>
 
