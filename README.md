@@ -10,35 +10,35 @@ I’m an entrepreneur and product builder working across software, AI, and techn
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/compass.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/compass.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> What I do
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/compass.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/compass.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> What I do
 
 From the first question to the finished product, I bring product thinking, engineering, and execution together.
 
 I’m interested in making complex technology feel simple, creating experiences people enjoy using, and building systems that stand the test of time.
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/layers.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/layers.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> Selected work
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/layers.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/layers.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> Selected work
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/sparkles.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/sparkles.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> [DOOB](https://github.com/aruntito/doob-v2)
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/sparkles.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/sparkles.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> <a href="https://github.com/aruntito/doob-v2">DOOB</a>
 
 Growth intelligence for creators.
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/book-open.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/book-open.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> [KARADAVI](https://github.com/aruntito/karadavi)
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/book-open.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/book-open.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> <a href="https://github.com/aruntito/karadavi">KARADAVI</a>
 
 A connected knowledge platform for exploring the world.
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/megaphone.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/megaphone.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> [SMXM](https://github.com/aruntito/smxm)
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/megaphone.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/megaphone.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> <a href="https://github.com/aruntito/smxm">SMXM</a>
 
 Digital marketing and growth systems.
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/share-2.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/share-2.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> [SMMLY](https://github.com/aruntito/smmly)
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/share-2.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/share-2.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> <a href="https://github.com/aruntito/smmly">SMMLY</a>
 
 A platform for social media marketing.
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/boxes.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/boxes.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> [TITORA](https://github.com/aruntito/titora)
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/boxes.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/boxes.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> <a href="https://github.com/aruntito/titora">TITORA</a>
 
 A home for business and technology ventures.
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/ice-cream-cone.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/ice-cream-cone.svg?color=%23000000" width="18" height="18" alt="" align="middle"></picture> [Tito’s Creamery](https://github.com/aruntito/creamery)
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/ice-cream-cone.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/ice-cream-cone.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> <a href="https://github.com/aruntito/creamery">Tito’s Creamery</a>
 
 A food and beverage venture.
 
