@@ -1,42 +1,34 @@
+<div align="center">
+
 # Arun Tito
 
-**Entrepreneur · Technology Builder**
+### Developer · Founder · Product Builder
 
-I build products, software, and digital systems—bringing ideas into clear, useful experiences through thoughtful engineering and execution.
+I design and build software, digital products, and systems that solve meaningful problems.
 
-[Website](https://trydoob.in) · [LinkedIn](https://www.linkedin.com/in/arundharavath) · [Instagram](https://www.instagram.com/arun.tito/) · [X](https://x.com/aruntito_) · [Email](mailto:thearuntito@gmail.com)
+[Website](https://trydoob.in) &nbsp;·&nbsp; [GitHub](https://github.com/aruntito) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/arundharavath) &nbsp;·&nbsp; [Email](mailto:thearuntito@gmail.com)
 
----
-
-## Ventures
-
-```mermaid
-flowchart TB
-    A(["ARUN TITO<br/>Entrepreneur · Technology Builder"])
-
-    A --> B["DOOB<br/>Growth intelligence"]
-    A --> C["KARADAVI<br/>Knowledge & research"]
-    A --> D["SMXM<br/>Digital marketing"]
-    A --> E["SMMLY<br/>Social media platform"]
-    A --> F["TITORA<br/>Business & technology"]
-    A --> G["TITO'S CREAMERY<br/>Food & beverage"]
-
-    classDef founder fill:#1d1d1f,color:#ffffff,stroke:#1d1d1f,stroke-width:2px
-    classDef venture fill:#f5f5f7,color:#1d1d1f,stroke:#d2d2d7,stroke-width:1px
-    class A founder
-    class B,C,D,E,F,G venture
-```
-
-[DOOB](https://github.com/aruntito/doob-v2) · [KARADAVI](https://github.com/aruntito/karadavi) · [SMXM](https://github.com/aruntito/smxm) · [SMMLY](https://github.com/aruntito/smmly) · [TITORA](https://github.com/aruntito/titora) · [Tito’s Creamery](https://github.com/aruntito/creamery)
+</div>
 
 ---
 
-## Technology
+## Building
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,ts,js,python,react,nextjs,laravel,tailwind,postgres,redis,docker,linux,aws,git,github&theme=light" alt="Technology stack" />
-</p>
+I work across product engineering, AI, automation, and digital platforms—from the first idea to production.
+
+## Selected projects
+
+- [DOOB](https://github.com/aruntito/doob-v2) — Growth intelligence
+- [KARADAVI](https://github.com/aruntito/karadavi) — Knowledge and research
+- [SMXM](https://github.com/aruntito/smxm) — Digital marketing
+- [SMMLY](https://github.com/aruntito/smmly) — Social media platform
+- [TITORA](https://github.com/aruntito/titora) — Business and technology
+- [Tito’s Creamery](https://github.com/aruntito/creamery) — Food and beverage
 
 ---
 
-*Thoughtful technology. Purposeful products. Built to last.*
+<div align="center">
+
+*Designed with purpose. Built with care.*
+
+</div>
