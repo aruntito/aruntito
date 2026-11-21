@@ -12,9 +12,11 @@ Building independent ventures across software, AI, and digital business. Focused
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/compass.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/compass.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> What I do
 
-From the first question to the finished product, I bring product thinking, engineering, and execution together.
+**Ideas into products. Products into businesses.**
 
-I’m interested in making complex technology feel simple, creating experiences people enjoy using, and building systems that stand the test of time.
+I bring together product thinking, engineering, and business execution to build ventures from the ground up.
+
+From software and AI to digital platforms, I focus on creating products that are useful, intuitive, and built to scale.
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/layers.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/layers.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> Selected work
 
