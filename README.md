@@ -2,31 +2,44 @@
 
 # Arun Tito
 
-### Developer · Founder · Product Builder
+### Building useful things for the world.
 
-I design and build software, digital products, and systems that solve meaningful problems.
+I’m an entrepreneur and product builder working across software, AI, and technology. I turn ideas into thoughtful digital products—designed to solve real problems and built to make a lasting difference.
 
 </div>
 
 ---
 
-## Building
+## What I do
 
-I work across product engineering, AI, automation, and digital platforms—from the first idea to production.
+From the first question to the finished product, I bring product thinking, engineering, and execution together.
 
-## Selected projects
+I’m interested in making complex technology feel simple, creating experiences people enjoy using, and building systems that stand the test of time.
 
-- [DOOB](https://github.com/aruntito/doob-v2) — Growth intelligence
-- [KARADAVI](https://github.com/aruntito/karadavi) — Knowledge and research
-- [SMXM](https://github.com/aruntito/smxm) — Digital marketing
-- [SMMLY](https://github.com/aruntito/smmly) — Social media platform
-- [TITORA](https://github.com/aruntito/titora) — Business and technology
-- [Tito’s Creamery](https://github.com/aruntito/creamery) — Food and beverage
+## Selected work
+
+**[DOOB](https://github.com/aruntito/doob-v2)**  
+Growth intelligence for creators.
+
+**[KARADAVI](https://github.com/aruntito/karadavi)**  
+A connected knowledge platform for exploring the world.
+
+**[SMXM](https://github.com/aruntito/smxm)**  
+Digital marketing and growth systems.
+
+**[SMMLY](https://github.com/aruntito/smmly)**  
+A platform for social media marketing.
+
+**[TITORA](https://github.com/aruntito/titora)**  
+A home for business and technology ventures.
+
+**[Tito’s Creamery](https://github.com/aruntito/creamery)**  
+A food and beverage venture.
 
 ---
 
 <div align="center">
 
-*Designed with purpose. Built with care.*
+*Thoughtfully made. Purposefully built.*
 
 </div>
