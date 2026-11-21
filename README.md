@@ -10,7 +10,7 @@ Building independent ventures across software, AI, and digital business. Focused
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/compass.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/compass.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> What I do
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/compass.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/compass.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> Approach
 
 **Ideas into products. Products into businesses.**
 
@@ -18,7 +18,7 @@ I bring together product thinking, engineering, and business execution to build 
 
 From software and AI to digital platforms, I focus on creating products that are useful, intuitive, and built to scale.
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/layers.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/layers.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> Selected work
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/layers.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/layers.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> Ventures
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> <a href="https://github.com/aruntito/doob-v2">DOOB</a>
 
