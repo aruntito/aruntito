@@ -7,10 +7,18 @@
 I design and build software, digital products, and systems that solve meaningful problems.
 
 <p>
-  <a href="https://github.com/aruntito"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/1D1D1F" /><img src="https://cdn.simpleicons.org/github/1D1D1F" height="24" alt="GitHub" /></picture></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/arundharavath"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linkedin/1D1D1F" /><img src="https://cdn.simpleicons.org/linkedin/1D1D1F" height="24" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/arun.tito/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/instagram/1D1D1F" /><img src="https://cdn.simpleicons.org/instagram/1D1D1F" height="24" alt="Instagram" /></picture></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/aruntito_"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/1D1D1F" /><img src="https://cdn.simpleicons.org/x/1D1D1F" height="24" alt="X" /></picture></a>
+  <a href="https://github.com/aruntito" title="GitHub"><img src="https://cdn.simpleicons.org/github/1D1D1F/FFFFFF?viewbox=auto" height="24" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arundharavath" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/1D1D1F/FFFFFF?viewbox=auto" height="24" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/arun.tito/" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/1D1D1F/FFFFFF?viewbox=auto" height="24" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/aruntito_" title="X"><img src="https://cdn.simpleicons.org/x/1D1D1F/FFFFFF?viewbox=auto" height="24" alt="X" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.threads.net/@arun.tito" title="Threads"><img src="https://cdn.simpleicons.org/threads/1D1D1F/FFFFFF?viewbox=auto" height="24" alt="Threads" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/aruntito.bsky.social" title="Bluesky"><img src="https://cdn.simpleicons.org/bluesky/1D1D1F/FFFFFF?viewbox=auto" height="24" alt="Bluesky" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@aruntito" title="YouTube"><img src="https://cdn.simpleicons.org/youtube/1D1D1F/FFFFFF?viewbox=auto" height="24" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/aruntito11" title="Facebook"><img src="https://cdn.simpleicons.org/facebook/1D1D1F/FFFFFF?viewbox=auto" height="24" alt="Facebook" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/aruntito" title="Telegram"><img src="https://cdn.simpleicons.org/telegram/1D1D1F/FFFFFF?viewbox=auto" height="24" alt="Telegram" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.pinterest.com/aruntito/" title="Pinterest"><img src="https://cdn.simpleicons.org/pinterest/1D1D1F/FFFFFF?viewbox=auto" height="24" alt="Pinterest" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@aruntito" title="Medium"><img src="https://cdn.simpleicons.org/medium/1D1D1F/FFFFFF?viewbox=auto" height="24" alt="Medium" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/aruntito/" title="Reddit"><img src="https://cdn.simpleicons.org/reddit/1D1D1F/FFFFFF?viewbox=auto" height="24" alt="Reddit" /></a>
 </p>
 
 </div>
