@@ -1,8 +1,15 @@
 <div align="center">
 
-<img src="assets/arun-avatar.jpg" width="112" align="left" alt="Arun Tito avatar" />
-
-# Arun Tito
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img src="assets/arun-avatar.jpg" width="112" alt="Arun Tito avatar" />
+    </td>
+    <td align="left" valign="middle">
+      <h1>Arun Tito</h1>
+    </td>
+  </tr>
+</table>
 
 ### Entrepreneurship, built through technology.
 
