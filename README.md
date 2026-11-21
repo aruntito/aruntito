@@ -18,11 +18,11 @@ I’m interested in making complex technology feel simple, creating experiences 
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/layers.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/layers.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> Selected work
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/sparkles.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/sparkles.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> <a href="https://github.com/aruntito/doob-v2">DOOB</a>
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> <a href="https://github.com/aruntito/doob-v2">DOOB</a>
 
 Growth intelligence for creators.
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/book-open.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/book-open.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> <a href="https://github.com/aruntito/karadavi">KARADAVI</a>
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/network.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/network.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> <a href="https://github.com/aruntito/karadavi">KARADAVI</a>
 
 A connected knowledge platform for exploring the world.
 
@@ -34,7 +34,7 @@ Digital marketing and growth systems.
 
 A platform for social media marketing.
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/boxes.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/boxes.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> <a href="https://github.com/aruntito/titora">TITORA</a>
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/briefcase-business.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/briefcase-business.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> <a href="https://github.com/aruntito/titora">TITORA</a>
 
 A home for business and technology ventures.
 
