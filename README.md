@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/at-banner.png" width="115%" alt="Arun Tito — Entrepreneurship, built through technology. Build, Launch, Grow." />
+<img src="assets/at-banner.png" width="122%" alt="Arun Tito — Entrepreneurship, built through technology. Build, Launch, Grow." />
 
 Building independent ventures across software, AI, and digital business. Focused on turning ambitious ideas into well-crafted products and enduring businesses.
 
