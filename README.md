@@ -1,17 +1,6 @@
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="assets/arun-avatar.jpg" width="112" alt="Arun Tito avatar" />
-    </td>
-    <td align="left" valign="middle">
-      <h1>Arun Tito</h1>
-    </td>
-  </tr>
-</table>
-
-### Entrepreneurship, built through technology.
+<img src="assets/arun-tito-header.jpg" width="100%" alt="Arun Tito — Entrepreneurship, built through technology. Build, Launch, Grow." />
 
 Building independent ventures across software, AI, and digital business. Focused on turning ambitious ideas into well-crafted products and enduring businesses.
 
