@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/arun-avatar.jpg" width="112" align="left" alt="Arun Tito avatar" />
+
 # Arun Tito
 
 ### Entrepreneurship, built through technology.
