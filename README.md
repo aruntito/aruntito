@@ -6,7 +6,11 @@
 
 I design and build software, digital products, and systems that solve meaningful problems.
 
-[Website](https://trydoob.in) &nbsp;·&nbsp; [GitHub](https://github.com/aruntito) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/arundharavath) &nbsp;·&nbsp; [Email](mailto:thearuntito@gmail.com)
+[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trydoob.in)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aruntito)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arundharavath)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arun.tito/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aruntito_)
 
 </div>
 
