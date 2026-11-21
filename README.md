@@ -6,11 +6,12 @@
 
 I design and build software, digital products, and systems that solve meaningful problems.
 
-[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://trydoob.in)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aruntito)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arundharavath)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arun.tito/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aruntito_)
+<p>
+  <a href="https://github.com/aruntito"><img src="https://cdn.simpleicons.org/github/1D1D1F" height="22" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arundharavath"><img src="https://cdn.simpleicons.org/linkedin/1D1D1F" height="22" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/arun.tito/"><img src="https://cdn.simpleicons.org/instagram/1D1D1F" height="22" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/aruntito_"><img src="https://cdn.simpleicons.org/x/1D1D1F" height="22" alt="X" /></a>
+</p>
 
 </div>
 
