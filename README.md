@@ -10,14 +10,24 @@ I build products, software, and digital systems—bringing ideas into clear, use
 
 ## Ventures
 
-| Project | Focus |
-|:--|:--|
-| [DOOB](https://github.com/aruntito/doob-v2) | Growth intelligence and digital execution |
-| [KARADAVI](https://github.com/aruntito/karadavi) | Knowledge, research, and connected information |
-| [SMXM](https://github.com/aruntito/smxm) | Digital marketing and growth |
-| [SMMLY](https://github.com/aruntito/smmly) | Social media marketing platform |
-| [TITORA](https://github.com/aruntito/titora) | Business and technology ventures |
-| [Tito’s Creamery](https://github.com/aruntito/creamery) | Food and beverage |
+```mermaid
+flowchart TB
+    A(["ARUN TITO<br/>Entrepreneur · Technology Builder"])
+
+    A --> B["DOOB<br/>Growth intelligence"]
+    A --> C["KARADAVI<br/>Knowledge & research"]
+    A --> D["SMXM<br/>Digital marketing"]
+    A --> E["SMMLY<br/>Social media platform"]
+    A --> F["TITORA<br/>Business & technology"]
+    A --> G["TITO'S CREAMERY<br/>Food & beverage"]
+
+    classDef founder fill:#1d1d1f,color:#ffffff,stroke:#1d1d1f,stroke-width:2px
+    classDef venture fill:#f5f5f7,color:#1d1d1f,stroke:#d2d2d7,stroke-width:1px
+    class A founder
+    class B,C,D,E,F,G venture
+```
+
+[DOOB](https://github.com/aruntito/doob-v2) · [KARADAVI](https://github.com/aruntito/karadavi) · [SMXM](https://github.com/aruntito/smxm) · [SMMLY](https://github.com/aruntito/smmly) · [TITORA](https://github.com/aruntito/titora) · [Tito’s Creamery](https://github.com/aruntito/creamery)
 
 ---
 
