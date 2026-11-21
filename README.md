@@ -18,29 +18,17 @@ I’m interested in making complex technology feel simple, creating experiences 
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/layers.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/layers.svg?color=%23000000" width="18" height="18" alt=""></picture> Selected work
 
-<table><tr><td valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/sparkles.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/sparkles.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/doob-v2">DOOB</a></h3></td></tr></table>
+<table><tbody><tr><td valign="middle" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/sparkles.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/sparkles.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/doob-v2">DOOB</a></h3></td></tr><tr><td colspan="2">Growth intelligence for creators.</td></tr></tbody></table>
 
-Growth intelligence for creators.
+<table><tbody><tr><td valign="middle" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/book-open.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/book-open.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/karadavi">KARADAVI</a></h3></td></tr><tr><td colspan="2">A connected knowledge platform for exploring the world.</td></tr></tbody></table>
 
-<table><tr><td valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/book-open.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/book-open.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/karadavi">KARADAVI</a></h3></td></tr></table>
+<table><tbody><tr><td valign="middle" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/megaphone.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/megaphone.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/smxm">SMXM</a></h3></td></tr><tr><td colspan="2">Digital marketing and growth systems.</td></tr></tbody></table>
 
-A connected knowledge platform for exploring the world.
+<table><tbody><tr><td valign="middle" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/share-2.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/share-2.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/smmly">SMMLY</a></h3></td></tr><tr><td colspan="2">A platform for social media marketing.</td></tr></tbody></table>
 
-<table><tr><td valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/megaphone.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/megaphone.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/smxm">SMXM</a></h3></td></tr></table>
+<table><tbody><tr><td valign="middle" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/boxes.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/boxes.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/titora">TITORA</a></h3></td></tr><tr><td colspan="2">A home for business and technology ventures.</td></tr></tbody></table>
 
-Digital marketing and growth systems.
-
-<table><tr><td valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/share-2.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/share-2.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/smmly">SMMLY</a></h3></td></tr></table>
-
-A platform for social media marketing.
-
-<table><tr><td valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/boxes.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/boxes.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/titora">TITORA</a></h3></td></tr></table>
-
-A home for business and technology ventures.
-
-<table><tr><td valign="middle"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/ice-cream-cone.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/ice-cream-cone.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/creamery">Tito’s Creamery</a></h3></td></tr></table>
-
-A food and beverage venture.
+<table><tbody><tr><td valign="middle" width="30"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/ice-cream-cone.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/ice-cream-cone.svg?color=%23000000" width="18" height="18" alt=""></picture></td><td valign="middle"><h3><a href="https://github.com/aruntito/creamery">Tito’s Creamery</a></h3></td></tr><tr><td colspan="2">A food and beverage venture.</td></tr></tbody></table>
 
 ---
 
