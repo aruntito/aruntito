@@ -50,7 +50,7 @@ top = ranked[:5]
 other_bytes = sum(count for _, count in ranked[5:])
 items = top + ([("Other", other_bytes)] if other_bytes else [])
 
-# Restrained palette: five muted accents, with neutral gray for the remainder.
+# Locked visual design: slim bar, compact labels, muted palette, no card background.
 palette = ["#3977B8", "#D6B94C", "#4D8A83", "#8176B5", "#C87958", "#9AA1AA"]
 bar_x, bar_y, bar_w, bar_h = 12, 12, 656, 8
 segments = []
@@ -94,5 +94,5 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="680" height="86" viewBo
 """
 
 Path("assets").mkdir(exist_ok=True)
-Path("assets/most-used-languages.svg").write_text(svg, encoding="utf-8")
-print(f"Updated compact language card from {len(repos)} accessible owned repositories.")
+Path("assets/language-summary.svg").write_text(svg, encoding="utf-8")
+print(f"Updated locked language summary from {len(repos)} accessible owned repositories.")
