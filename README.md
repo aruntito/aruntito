@@ -49,7 +49,7 @@ A food and beverage venture.
 ## Most used languages
 
 <p align="center">
-  <img src="assets/most-used-languages.svg" alt="Most used languages across public and private repositories" />
+  <img src="assets/most-used-languages.svg?v=d515ad2" alt="Most used languages across public and private repositories" />
 </p>
 
 ---
