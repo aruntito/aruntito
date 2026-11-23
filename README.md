@@ -57,12 +57,12 @@ A food and beverage venture.
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/at-sign.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/at-sign.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> Connect with me
 
 <p align="center">
-  <a href="https://aruntito.com" title="Website"><img src="https://api.iconify.design/lucide/globe.svg?color=%238B949E" width="24" height="24" alt="Website" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/arundharavath" title="LinkedIn"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%238B949E" width="24" height="24" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/arun.tito" title="Instagram"><img src="https://api.iconify.design/simple-icons/instagram.svg?color=%238B949E" width="24" height="24" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/aruntito" title="X"><img src="https://api.iconify.design/simple-icons/x.svg?color=%238B949E" width="24" height="24" alt="X" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@aruntito" title="YouTube"><img src="https://api.iconify.design/simple-icons/youtube.svg?color=%238B949E" width="24" height="24" alt="YouTube" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:hey@aruntito.com" title="Email"><img src="https://api.iconify.design/lucide/mail.svg?color=%238B949E" width="24" height="24" alt="Email" /></a>
+  <a href="https://aruntito.com" title="Website"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/globe.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/globe.svg?color=%23000000" width="24" height="24" alt="Website" /></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arundharavath" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/linkedin.svg?color=%23FFFFFF"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%23000000" width="24" height="24" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/arun.tito" title="Instagram"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/instagram.svg?color=%23FFFFFF"><img src="https://api.iconify.design/simple-icons/instagram.svg?color=%23000000" width="24" height="24" alt="Instagram" /></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/aruntito" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/x.svg?color=%23FFFFFF"><img src="https://api.iconify.design/simple-icons/x.svg?color=%23000000" width="24" height="24" alt="X" /></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@aruntito" title="YouTube"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/youtube.svg?color=%23FFFFFF"><img src="https://api.iconify.design/simple-icons/youtube.svg?color=%23000000" width="24" height="24" alt="YouTube" /></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hey@aruntito.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/mail.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/mail.svg?color=%23000000" width="24" height="24" alt="Email" /></picture></a>
 </p>
 
 ---
