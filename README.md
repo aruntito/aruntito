@@ -46,6 +46,14 @@ A food and beverage venture.
 
 ---
 
+## Most used languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aruntito&layout=compact&theme=transparent&hide_border=true&title_color=8B949E&text_color=8B949E" alt="Most used languages" />
+</p>
+
+---
+
 <div align="center">
 
 *Thoughtfully made. Purposefully built.*
