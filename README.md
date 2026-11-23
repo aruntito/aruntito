@@ -56,7 +56,14 @@ A food and beverage venture.
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/at-sign.svg?color=%23FFFFFF"><img src="https://api.iconify.design/lucide/at-sign.svg?color=%23000000" width="18" height="18" alt="" align="absmiddle"></picture> Connect with me
 
-[Website](https://aruntito.com) · [LinkedIn](https://www.linkedin.com/in/arundharavath) · [Instagram](https://www.instagram.com/arun.tito) · [X](https://x.com/aruntito) · [YouTube](https://www.youtube.com/@aruntito) · [Email](mailto:hey@aruntito.com)
+<p align="center">
+  <a href="https://aruntito.com" title="Website"><img src="https://api.iconify.design/lucide/globe.svg?color=%238B949E" width="20" height="20" alt="Website" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arundharavath" title="LinkedIn"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" height="20" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/arun.tito" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" height="20" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/aruntito" title="X"><img src="https://cdn.simpleicons.org/x/8B949E" width="20" height="20" alt="X" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@aruntito" title="YouTube"><img src="https://cdn.simpleicons.org/youtube/FF0033" width="20" height="20" alt="YouTube" /></a>&nbsp;&nbsp;
+  <a href="mailto:hey@aruntito.com" title="Email"><img src="https://api.iconify.design/lucide/mail.svg?color=%238B949E" width="20" height="20" alt="Email" /></a>
+</p>
 
 ---
 
