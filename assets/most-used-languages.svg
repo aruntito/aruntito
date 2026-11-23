@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="150" viewBox="0 0 680 150" role="img" aria-labelledby="title">
+<title id="title">Most used languages</title>
+<rect width="680" height="150" rx="12" fill="#0d1117"/>
+<text x="28" y="48" fill="#539bf5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="27" font-weight="600">Most Used Languages</text>
+<text x="28" y="91" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16">Add the GH_STATS_TOKEN repository secret and run the workflow</text>
+<text x="28" y="119" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="13">Private and public repository language data will appear here.</text>
+</svg>
