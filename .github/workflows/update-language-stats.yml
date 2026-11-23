@@ -1,6 +1,13 @@
 name: Update language statistics
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - "scripts/update_language_stats.py"
+      - ".github/workflows/update-language-stats.yml"
   schedule:
     - cron: "17 */12 * * *"
   workflow_dispatch:
