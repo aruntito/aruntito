@@ -32,12 +32,12 @@ jobs:
           GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: python scripts/update_language_stats.py
 
-      - name: Commit updated card
+      - name: Commit updated language summary
         run: |
-          if [[ -n "$(git status --porcelain assets/most-used-languages.svg)" ]]; then
+          if [[ -n "$(git status --porcelain assets/language-summary.svg)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add assets/most-used-languages.svg
-            git commit -m "Update most used languages card"
+            git add assets/language-summary.svg
+            git commit -m "Update language summary"
             git push
           fi
